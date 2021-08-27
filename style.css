@@ -87,3 +87,14 @@ p{
     background-color: #F0E6EF;
     color: blue;
 }
+a{
+    font-size: 50px;
+    color:red;
+    text-decoration: none;
+}
+.article:hover{
+    color:blue;
+}
+html{
+    scroll-behavior: smooth;
+}
